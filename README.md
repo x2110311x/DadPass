@@ -1,4 +1,4 @@
-
+# This Project Was Created at Kent Hack Enough 2019 - https://khe.io/
 ## Inspiration
 
 Working in IT, I see breaches all the time due to weak password security. People reusing passwords, having generally weak passwords, passwords that have been involved in breaches. It's become a problem that needs addressed. Password security is a major thing many people lack, and it's time for change.
